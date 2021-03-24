@@ -1,4 +1,4 @@
-#Eai, eu sou o Jorge Lisboa <img src="https://emoji.gg/assets/emoji/6184-steep.png" width="32px" height="32px">
+# Eai, eu sou o Jorge Lisboa <img src="https://emoji.gg/assets/emoji/6184-steep.png" width="32px" height="32px">
 
 <a href="https://github.com/jorgelisboa" ></a>
 
@@ -11,6 +11,10 @@
     <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 </div>
+
+
+##
+
 
 <div>
     <a href="https://www.linkedin.com/in/jorge-miguel-teixeira-do-nascimento-lisboa-4a07a41b2/" target="_blank"> 
