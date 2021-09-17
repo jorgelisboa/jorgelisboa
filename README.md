@@ -1,5 +1,6 @@
 # Eai, eu sou o Jorge Lisboa <img src="https://emoji.gg/assets/emoji/6184-steep.png" width="32px" height="32px">
-
+Eu estou terminando o ensino médio e sou desenvolvedor mobile nativo a 1 ano.
+Após ter me aprofundado no desenvolvimento mobile nativo com kotlin/java, estou focando atualmente no desenvolvimento front-end, visando o React.
 <a href="https://github.com/jorgelisboa" ></a>
 
 <div>
