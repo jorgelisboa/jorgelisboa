@@ -1,11 +1,11 @@
 # Eai, eu sou o Jorge Lisboa <img src="https://emoji.gg/assets/emoji/6184-steep.png" width="32px" height="32px">
 Eu estou terminando o ensino médio e sou desenvolvedor mobile nativo a 1 ano e meio, tendo feito meu TCC totalmente com java (android) e atuado como desenvolvedor e scrum master.
 Após ter me aprofundado no desenvolvimento mobile nativo com kotlin/java, estou focando atualmente no desenvolvimento front-end, utlizando o React para a criação de um blog, veja meu repositório <a href="https://github.com/jorgelisboa/krhuhun-blog">aqui</a>.
-<a href="https://github.com/jorgelisboa" ></a>
 
-<div>
-    <a href="https://github.com/jorgelisboa"></a>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgelisboa&layout=compact&langs_count=8&theme=radical" />
+<div align="center">
+    <a href="https://github.com/jorgelisboa">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgelisboa&layout=compact&langs_count=8&theme=radical" />
+    </a>
 </div>
 
 <div style="display: inline_block"><br>
