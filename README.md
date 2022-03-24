@@ -1,5 +1,5 @@
 # Hi, I am Jorge Lisboa <img src="https://emoji.gg/assets/emoji/6184-steep.png" width="32px" height="32px">
-Deloper since 2019, now woring with Android, using Kotlin and sometimes Java, but I really want to become a full-stack developer, develop from games on Unity to Back-end applications. Know a little bit of everything is important to see all the perspectives, and to find yourself in this huge environment.
+Deloper since 2019, now woring with Android, using Kotlin and sometimes Java, but I really want to become a full-stack developer, develop since from games on Unity to Back-end applications. Know a little bit of everything is important to see all the perspectives, and to find yourself in this huge environment.
 
 <div align="center">
     <a href="https://github.com/jorgelisboa">
