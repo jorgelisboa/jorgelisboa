@@ -1,6 +1,5 @@
-# Eai, eu sou o Jorge Lisboa <img src="https://emoji.gg/assets/emoji/6184-steep.png" width="32px" height="32px">
-Eu estou terminando o ensino médio e sou desenvolvedor mobile nativo a 1 ano e meio, tendo feito meu TCC totalmente com java (android) e atuado como desenvolvedor e scrum master.
-Após ter me aprofundado no desenvolvimento mobile nativo com kotlin/java, estou focando atualmente no desenvolvimento front-end, utlizando o React para a criação de um blog, veja meu repositório <a href="https://github.com/jorgelisboa/krhuhun-blog">aqui</a>.
+# Hi, I am Jorge Lisboa <img src="https://emoji.gg/assets/emoji/6184-steep.png" width="32px" height="32px">
+I'm woring with Android using Kotlin and sometimes Java, but I really want to become a full-stack developer, develop from games on Unity to Back-end applications. Know a little bit of everything is important to see all the perspectives, and to find yourself in this huge environment.
 
 <div align="center">
     <a href="https://github.com/jorgelisboa">
@@ -22,7 +21,7 @@ Após ter me aprofundado no desenvolvimento mobile nativo com kotlin/java, estou
         <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
 </div>
 
-##
+### See more about me in my Linkedin
 <div>
     <a href="https://www.linkedin.com/in/jorge-miguel-teixeira-do-nascimento-lisboa-4a07a41b2/" target="_blank"> 
         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
