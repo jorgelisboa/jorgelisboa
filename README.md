@@ -28,6 +28,9 @@ Deloper since 2019, already dealed with Android (Java and Kotlin) in a bunch of 
         <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
         <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
         <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+        <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//-.svg" />
+          
+
 </div>
 
 ##### See more about me in my Linkedin
