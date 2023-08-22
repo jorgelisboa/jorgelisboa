@@ -1,5 +1,5 @@
 # Hi, I am Jorge Lisboa <img src="https://emoji.gg/assets/emoji/6184-steep.png" width="32px" height="32px">
-Deloper since 2019, already dealed with Android (Java and Kotlin) in a bunch of projects, but now starting at vert ecotech, teaching backend, frontend for some people and making mobile applications with expo.
+Deloper since 2019, already dealed with Android (Java and Kotlin) in a bunch of projects, but now starting at Joga, using nextjs, react native CLI and other tecnlogies as a full-stack.
 
 <div align="center">
     <a href="https://github.com/jorgelisboa">
